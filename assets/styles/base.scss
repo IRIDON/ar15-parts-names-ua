@@ -1,0 +1,48 @@
+.arMap {
+	display: flex;
+
+	area {
+		outline: none;
+	}
+
+	&__pic {
+		flex: 1 0;
+
+		img {
+			max-width: 100%;
+		}
+	}
+
+	&__bar {
+		flex: 0 1 300px;
+    	width: 300px;
+	}
+}
+
+.panel {
+	margin-top: 20px;
+	
+	&__title {
+		font-size: 22px;
+		font-weight: 700;
+		background: #ccc;
+		margin: 0;
+		display: block;
+		padding: 15px;
+		cursor: pointer;
+
+		&:hover {
+			background: #999;
+		}
+	}
+
+	&__list {
+		display: none;
+	}
+
+	&.__show & {
+		&__list {
+			display: block;
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+  "name": "ar15-parts-names-ua",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^3.6.0",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "file-loader": "^6.0.0",
+    "handlebars-loader": "^1.7.1",
+    "handlebars-webpack-plugin": "^1.8.1",
+    "html-webpack-plugin": "^4.3.0",
+    "image-map-resizer": "^1.0.10",
+    "mini-css-extract-plugin": "^0.9.0",
+    "sass": "^1.26.10",
+    "sass-loader": "^9.0.2",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "scripts": {
+    "build": "webpack --config .meta/webpack.config.prod.js",
+    "dev": "webpack --watch --config .meta/webpack.config.dev.js"
+  }
+}

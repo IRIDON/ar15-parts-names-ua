@@ -1,0 +1,1 @@
+.arMap{display:flex}.arMap area{outline:none}.arMap__pic{flex:1 0}.arMap__pic img{max-width:100%}.arMap__bar{flex:0 1 300px;width:300px}.panel{margin-top:20px}.panel__title{font-size:22px;font-weight:700;background:#ccc;margin:0;display:block;padding:15px;cursor:pointer}.panel__title:hover{background:#999}.panel__list{display:none}.panel.__show .panel__list{display:block}

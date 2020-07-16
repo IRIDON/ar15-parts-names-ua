@@ -1,0 +1,522 @@
+[
+    {
+        "sort": 4,
+        "name": "Lower parts",
+        "ancor": "lowerparts",
+        "coords": "526,1713,733,1732,820,1719,1095,1745,1216,1749,1317,1494,1282,1314,1086,1127,839,1113,745,1306,575,1621",
+        "list": {
+            "1" : {
+                "en": "Pistol grip screw",
+                "ua": ""
+            },
+            "2" : {
+                "en": "Lock washer",
+                "ua": ""
+            },
+            "3" : {
+                "en": "Pistol grip",
+                "ua": ""
+            },
+            "4" : {
+                "en": "Safety detent spring",
+                "ua": ""
+            },
+            "5" : {
+                "en": "Safety detent",
+                "ua": ""
+            },
+            "6" : {
+                "en": "Takedown pin",
+                "ua": ""
+            },
+            "7" : {
+                "en": "Takedown pin detent",
+                "ua": ""
+            },
+            "8" : {
+                "en": "Takedown pin spring",
+                "ua": ""
+            },
+            "9" : {
+                "en": "Buffer retainer spring",
+                "ua": ""
+            },
+            "10" : {
+                "en": "Buffer retainer",
+                "ua": ""
+            },
+            "11" : {
+                "en": "Lower receiver",
+                "ua": ""
+            },
+            "12" : {
+                "en": "Hammer",
+                "ua": ""
+            },
+            "13" : {
+                "en": "Hammer spring",
+                "ua": ""
+            },
+            "14" : {
+                "en": "Safety selector lever",
+                "ua": ""
+            },
+            "15" : {
+                "en": "Bolt catch",
+                "ua": ""
+            },
+            "16" : {
+                "en": "Bolt catch roll pin",
+                "ua": ""
+            },
+            "17" : {
+                "en": "Bolt catch plunger",
+                "ua": ""
+            },
+            "18" : {
+                "en": "Bolt catch spring",
+                "ua": ""
+            },
+            "19" : {
+                "en": "Magazine catch",
+                "ua": ""
+            },
+            "20" : {
+                "en": "Pivot pin detent",
+                "ua": ""
+            },
+            "21" : {
+                "en": "Pivot pin spring",
+                "ua": ""
+            },
+            "22" : {
+                "en": "Pivot pin",
+                "ua": ""
+            },
+            "23" : {
+                "en": "Disconnector spring",
+                "ua": ""
+            },
+            "24" : {
+                "en": "Disconnector",
+                "ua": ""
+            },
+            "25" : {
+                "en": "Trigger spring",
+                "ua": ""
+            },
+            "26" : {
+                "en": "Trigger",
+                "ua": ""
+            },
+            "27" : {
+                "en": "Trigger guard ",
+                "ua": ""
+            },
+            "28" : {
+                "en": "Trigger guard spiral roll pin",
+                "ua": ""
+            },
+            "29" : {
+                "en": "Magazine catch spring",
+                "ua": ""
+            },
+            "30" : {
+                "en": "Magazine catch batton",
+                "ua": ""
+            },
+            "31" : {
+                "en": "Hammer and trigger ping",
+                "ua": ""
+            }
+        }
+    },
+    {
+        "sort": 3,
+        "name": "Stock parts",
+        "ancor": "stockparts",
+        "coords": "269,1520,277,1339,317,1215,431,1262,704,1082,720,1041,39,815,20,1347,52,1507",
+        "list": {
+            "32" : {
+                "en": "Car buffer spring",
+                "ua": ""
+            },
+            "33" : {
+                "en": "Buffer assembly",
+                "ua": ""
+            },
+            "34" : {
+                "en": "Posines carbine receiver extension",
+                "ua": ""
+            },
+            "35" : {
+                "en": "Receiver Extension Nut (Castle Nut)",
+                "ua": ""
+            },
+            "36" : {
+                "en": "End-plate",
+                "ua": ""
+            },
+            "37" : {
+                "en": "Pin bullstock slide lock",
+                "ua": ""
+            },
+            "38" : {
+                "en": "Lockpin Spring",
+                "ua": ""
+            },
+            "39" : {
+                "en": "Telestock latch",
+                "ua": ""
+            },
+            "40" : {
+                "en": "Lockpin nat",
+                "ua": ""
+            },
+            "41" : {
+                "en": "Raff pin",
+                "ua": ""
+            }
+        }
+    },
+    {
+        "sort": 5,
+        "name": "Mag parts",
+        "ancor": "magparts",
+        "coords": "308,1802,470,1789,537,1639,545,1315,301,1283,282,1588",
+        "list": {
+            "42" : {
+                "en": "Magazine follower",
+                "ua": ""
+            },
+            "43" : {
+                "en": "Magazine box assy",
+                "ua": ""
+            },
+            "44" : {
+                "en": "Magazine floor",
+                "ua": ""
+            },
+            "45" : {
+                "en": "Magazine spring",
+                "ua": ""
+            }
+        }
+    },
+    {
+        "sort": 1,
+        "name": "Bolt parts",
+        "ancor": "boltparts",
+        "coords": "562,823,553,747,443,603,351,487,269,370,61,239,3,395,2,537,98,647,196,775,311,869,411,852,528,842",
+        "list": {
+            "46" : {
+                "en": "Firing pin",
+                "ua": ""
+            },
+            "47" : {
+                "en": "Bolt carrier key screw",
+                "ua": ""
+            },
+            "48" : {
+                "en": "Bolt carrier key",
+                "ua": ""
+            },
+            "49" : {
+                "en": "Firing pin retaining pin",
+                "ua": ""
+            },
+            "50" : {
+                "en": "Cam pin",
+                "ua": ""
+            },
+            "51" : {
+                "en": "Bolt carrier",
+                "ua": ""
+            },
+            "52" : {
+                "en": "Extractor pin",
+                "ua": ""
+            },
+            "53" : {
+                "en": "Ejector roll pin",
+                "ua": ""
+            },
+            "54" : {
+                "en": "Ejector spring",
+                "ua": ""
+            },
+            "55" : {
+                "en": "Ejector",
+                "ua": ""
+            },
+            "56" : {
+                "en": "Extractor",
+                "ua": ""
+            },
+            "57" : {
+                "en": "Extractor spring insert",
+                "ua": ""
+            },
+            "58" : {
+                "en": "Extractor spring",
+                "ua": ""
+            },
+            "59" : {
+                "en": "Bolt",
+                "ua": ""
+            },
+            "60" : {
+                "en": "Bolt gas rings",
+                "ua": ""
+            }
+        }
+    },
+    {
+        "sort": 2,
+        "name": "Upper parts",
+        "ancor": "upperparts",
+        "coords": "1091,1117,1272,1057,1317,886,1282,607,1232,553,1066,539,718,601,593,846,613,928,946,1076",
+        "list": {
+            "61" : {
+                "en": "Charging handle",
+                "ua": ""
+            },
+            "62" : {
+                "en": "Charging handle latch roll pin",
+                "ua": ""
+            },
+            "63" : {
+                "en": "Charging handle latch",
+                "ua": ""
+            },
+            "64" : {
+                "en": "Charging handle latch spring",
+                "ua": ""
+            },
+            "65" : {
+                "en": "Forward assist plunger",
+                "ua": ""
+            },
+            "66" : {
+                "en": "Pawl spring",
+                "ua": ""
+            },
+            "67" : {
+                "en": "Pawl deten pawl spring",
+                "ua": ""
+            },
+            "68" : {
+                "en": "Pawl spring pin",
+                "ua": ""
+            },
+            "69" : {
+                "en": "Forward assist pawl",
+                "ua": ""
+            },
+            "70" : {
+                "en": "Forward assist spring",
+                "ua": ""
+            },
+            "72" : {
+                "en": "Elevation spring",
+                "ua": ""
+            },
+            "73" : {
+                "en": "Knob elevation",
+                "ua": ""
+            },
+            "74" : {
+                "en": "Index elevation",
+                "ua": ""
+            },
+            "75" : {
+                "en": "Index screw",
+                "ua": ""
+            },
+            "76" : {
+                "en": "Ball bearing",
+                "ua": ""
+            },
+            "77" : {
+                "en": "Index spring",
+                "ua": ""
+            },
+            "78" : {
+                "en": "Rear sight elevation spring pin",
+                "ua": ""
+            },
+            "79" : {
+                "en": "Forward assist spring pin",
+                "ua": ""
+            },
+            "80" : {
+                "en": "Rear sight windage knob",
+                "ua": ""
+            },
+            "81" : {
+                "en": "Rear sight windage knob pin",
+                "ua": ""
+            },
+            "82" : {
+                "en": "Rear sight base",
+                "ua": ""
+            },
+            "83" : {
+                "en": "Rear sight windage screw",
+                "ua": ""
+            },
+            "84" : {
+                "en": "Rear sight helical spring",
+                "ua": ""
+            },
+            "85" : {
+                "en": "Rear sight ball bearing",
+                "ua": ""
+            },
+            "86" : {
+                "en": "Rear sight aperture",
+                "ua": ""
+            },
+            "87" : {
+                "en": "Rear sight flat spring",
+                "ua": ""
+            },
+            "88" : {
+                "en": "Rear sight ball bearing",
+                "ua": ""
+            },
+            "89" : {
+                "en": "Rear sight helical spring",
+                "ua": ""
+            },
+            "90" : {
+                "en": "Thumb nut assembly",
+                "ua": ""
+            },
+            "91" : {
+                "en": "Clamping bar",
+                "ua": ""
+            },
+            "92" : {
+                "en": "Cross bold",
+                "ua": ""
+            },
+            "93" : {
+                "en": "Carry handle Forged",
+                "ua": ""
+            },
+            "94" : {
+                "en": "Upper receiver",
+                "ua": ""
+            },
+            "95" : {
+                "en": "Ring retaining cover",
+                "ua": ""
+            },
+            "96" : {
+                "en": "Ejection port cover",
+                "ua": ""
+            },
+            "97" : {
+                "en": "Cover pin ejection port cover spring",
+                "ua": ""
+            },
+            "98" : {
+                "en": "Ejection port",
+                "ua": ""
+            }
+        }
+    },
+    {
+        "sort": 0,
+        "name": "Barrel Parts",
+        "ancor": "barrelparts",
+        "coords": "844,538,1006,485,1225,537,1253,505,1246,414,978,245,848,90,495,22,288,77,181,185,282,288,424,424,693,510",
+        "list": {
+            "99" : {
+                "en": "Handguard",
+                "ua": ""
+            },
+            "100" : {
+                "en": "Barrel nat",
+                "ua": ""
+            },
+            "101" : {
+                "en": "Barrel extersion",
+                "ua": ""
+            },
+            "102" : {
+                "en": "Barrel indexing pin",
+                "ua": ""
+            },
+            "103" : {
+                "en": "Della ring",
+                "ua": ""
+            },
+            "104" : {
+                "en": "weld spring",
+                "ua": ""
+            },
+            "105" : {
+                "en": "Hand guard snap ring",
+                "ua": ""
+            },
+            "106" : {
+                "en": "Carabine gaz tube",
+                "ua": ""
+            },
+            "107" : {
+                "en": "Thermoset handguard cap",
+                "ua": ""
+            },
+            "108" : {
+                "en": "Handguard cap",
+                "ua": ""
+            },
+            "109" : {
+                "en": "Front sight post",
+                "ua": ""
+            },
+            "110" : {
+                "en": "Front sight detent",
+                "ua": ""
+            },
+            "111" : {
+                "en": "Front sight detent spring",
+                "ua": ""
+            },
+            "112" : {
+                "en": "Gas tube roff pin",
+                "ua": ""
+            },
+            "113" : {
+                "en": "Front sight base with bayonet lug",
+                "ua": ""
+            },
+            "114" : {
+                "en": "Barrel subassembly",
+                "ua": ""
+            },
+            "115" : {
+                "en": "Crush washer",
+                "ua": ""
+            },
+            "116" : {
+                "en": "Flash suppressor",
+                "ua": ""
+            },
+            "117" : {
+                "en": "Front signal taper pins",
+                "ua": ""
+            },
+            "118" : {
+                "en": "Front signal swivel",
+                "ua": ""
+            },
+            "119" : {
+                "en": "Front signal swivel rivet",
+                "ua": ""
+            }
+        }
+    }
+]

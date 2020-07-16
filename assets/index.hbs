@@ -1,0 +1,33 @@
+<section class="arMap">
+    <div class="arMap__pic">
+        <img src="ar-15-exploded-view-new.png" usemap="#ar15MapImg">
+
+        <map id="ar15MapImg" name="ar15MapImg">
+            {{#each this}}
+            <area alt="{{name}}" title="{{name}}" href="#{{ancor}}" coords="{{coords}}" shape="poly">
+            {{/each}}
+        </map>
+    </div>
+    <aside class="arMap__bar">
+        {{#each this}}
+        <div class="panel js-mapPanel">
+            <a name="{{ancor}}"></a>
+            <h3 class="panel__title js-mapPanelToogle">{{name}}</h3>
+            <ul class="panel__list">
+                {{#each list}}
+                <li class="panelList">
+                    <b class="panelList__index">{{@key}}.</b>&nbsp;
+                    {{#with this}}
+                    <span class="panelList__name">{{ua}}</span>
+                    <em class="panelList__sub">{{en}}</em>
+                    {{/with}}
+                </li>
+                {{/each}}
+            </ul>
+        </div>
+        {{/each}}
+    </aside>
+</div>
+
+<script src="./bundle.js"></script>
+<link rel="stylesheet" type="text/css" href="./styles.css">
