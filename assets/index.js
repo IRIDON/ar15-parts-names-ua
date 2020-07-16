@@ -1,7 +1,7 @@
 import imageMapResize from 'image-map-resizer';
 
 import './styles/base.scss';
-import image from '../source/ar-15-exploded-view-new.png';
+import image from '../source/ar-15-exploded-view.png';
 
 const mapId = 'ar15MapImg';
 const mapPanel = '.js-mapPanel';
