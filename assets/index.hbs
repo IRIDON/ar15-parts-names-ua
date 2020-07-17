@@ -12,14 +12,18 @@
         {{#each this}}
         <div class="panel js-mapPanel">
             <a name="{{ancor}}"></a>
-            <h3 class="panel__title js-mapPanelToogle">{{name}}</h3>
+            <h3 class="panel__title js-mapPanelToogle">
+                {{#with name}}
+                {{ua}}
+                {{/with}}
+            </h3>
             <ul class="panel__list">
                 {{#each list}}
                 <li class="panelList">
                     <b class="panelList__index">{{@key}}.</b>&nbsp;
                     {{#with this}}
                     <span class="panelList__name">{{ua}}</span>
-                    <em class="panelList__sub">{{en}}</em>
+                    <em class="panelList__sub">({{en}})</em>
                     {{/with}}
                 </li>
                 {{/each}}

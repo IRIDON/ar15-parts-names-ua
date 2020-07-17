@@ -1,177 +1,183 @@
 [
     {
         "sort": 4,
-        "name": "Lower parts",
+        "name": {
+            "en": "Lower parts",
+            "ua": "Нижний ресивер"
+        },
         "ancor": "lowerparts",
         "coords": "526,1713,733,1732,820,1719,1095,1745,1216,1749,1317,1494,1282,1314,1086,1127,839,1113,745,1306,575,1621",
         "list": {
             "1" : {
                 "en": "Pistol grip screw",
-                "ua": ""
+                "ua": "Гвинт руків'я"
             },
             "2" : {
                 "en": "Lock washer",
-                "ua": ""
+                "ua": "Стопорна шайба"
             },
             "3" : {
                 "en": "Pistol grip",
-                "ua": ""
+                "ua": "Руків'я"
             },
             "4" : {
                 "en": "Safety detent spring",
-                "ua": ""
+                "ua": "Пружина стопора запобіжника"
             },
             "5" : {
                 "en": "Safety detent",
-                "ua": ""
+                "ua": "Стопор запобіжника"
             },
             "6" : {
                 "en": "Takedown pin",
-                "ua": ""
+                "ua": "Штифт розборки"
             },
             "7" : {
                 "en": "Takedown pin detent",
-                "ua": ""
+                "ua": "Стопор штифта розборки"
             },
             "8" : {
                 "en": "Takedown pin spring",
-                "ua": ""
+                "ua": "Пружина штифта розборки"
             },
             "9" : {
                 "en": "Buffer retainer spring",
-                "ua": ""
+                "ua": "Пружина фіксатора буфера"
             },
             "10" : {
                 "en": "Buffer retainer",
-                "ua": ""
+                "ua": "Фіксатор буфера"
             },
             "11" : {
                 "en": "Lower receiver",
-                "ua": ""
+                "ua": "Нижний ресивер"
             },
             "12" : {
                 "en": "Hammer",
-                "ua": ""
+                "ua": "Курок"
             },
             "13" : {
                 "en": "Hammer spring",
-                "ua": ""
+                "ua": "Пружина курка"
             },
             "14" : {
                 "en": "Safety selector lever",
-                "ua": ""
+                "ua": "Важіль перевідника вогню"
             },
             "15" : {
                 "en": "Bolt catch",
-                "ua": ""
+                "ua": "Затворний затримувач"
             },
             "16" : {
                 "en": "Bolt catch roll pin",
-                "ua": ""
+                "ua": "Трубчастий штифт затворного затримувача"
             },
             "17" : {
                 "en": "Bolt catch plunger",
-                "ua": ""
+                "ua": "Поршень затворного затримувача"
             },
             "18" : {
                 "en": "Bolt catch spring",
-                "ua": ""
+                "ua": "Пружина затворного затримувача"
             },
             "19" : {
                 "en": "Magazine catch",
-                "ua": ""
+                "ua": "Утримувач магазину"
             },
             "20" : {
                 "en": "Pivot pin detent",
-                "ua": ""
+                "ua": "Стопор поворотного штифта"
             },
             "21" : {
                 "en": "Pivot pin spring",
-                "ua": ""
+                "ua": "Пружина поворотного штифта"
             },
             "22" : {
                 "en": "Pivot pin",
-                "ua": ""
+                "ua": "Поворотний штифт"
             },
             "23" : {
                 "en": "Disconnector spring",
-                "ua": ""
+                "ua": "Пружина роз’єднувача"
             },
             "24" : {
                 "en": "Disconnector",
-                "ua": ""
+                "ua": "Роз’єднувач"
             },
             "25" : {
                 "en": "Trigger spring",
-                "ua": ""
+                "ua": "Пружина спускової деталі"
             },
             "26" : {
                 "en": "Trigger",
-                "ua": ""
+                "ua": "Спусковий гачок"
             },
             "27" : {
-                "en": "Trigger guard ",
-                "ua": ""
+                "en": "Trigger guard",
+                "ua": "Запобіжна скоба"
             },
             "28" : {
                 "en": "Trigger guard spiral roll pin",
-                "ua": ""
+                "ua": "Трубчастий штифт запобіжної скобки"
             },
             "29" : {
                 "en": "Magazine catch spring",
-                "ua": ""
+                "ua": "Пружина утримувача магазину"
             },
             "30" : {
                 "en": "Magazine catch batton",
-                "ua": ""
+                "ua": "Кнопка утримувача магазину"
             },
             "31" : {
                 "en": "Hammer and trigger ping",
-                "ua": ""
+                "ua": "Штифти ударно-спускового механізма (УСМ)"
             }
         }
     },
     {
         "sort": 3,
-        "name": "Stock parts",
+        "name": {
+            "en": "Stock parts",
+            "ua": "Приклад"
+        },
         "ancor": "stockparts",
         "coords": "269,1520,277,1339,317,1215,431,1262,704,1082,720,1041,39,815,20,1347,52,1507",
         "list": {
             "32" : {
                 "en": "Car buffer spring",
-                "ua": ""
+                "ua": "Зворотна пружина"
             },
             "33" : {
                 "en": "Buffer assembly",
-                "ua": ""
+                "ua": "Буфер"
             },
             "34" : {
                 "en": "Posines carbine receiver extension",
-                "ua": ""
+                "ua": "Трубка-адаптер прикладу"
             },
             "35" : {
                 "en": "Receiver Extension Nut (Castle Nut)",
-                "ua": ""
+                "ua": "Контргайка труби прикладу"
             },
             "36" : {
                 "en": "End-plate",
-                "ua": ""
+                "ua": "Торцева пластина"
             },
             "37" : {
                 "en": "Pin bullstock slide lock",
-                "ua": ""
+                "ua": "Штифт ковзного замка прикладу"
             },
             "38" : {
                 "en": "Lockpin Spring",
-                "ua": ""
+                "ua": "Пружина штифта"
             },
             "39" : {
                 "en": "Telestock latch",
-                "ua": ""
+                "ua": "Клямка приклада"
             },
             "40" : {
                 "en": "Lockpin nat",
-                "ua": ""
+                "ua": "Фіксатор клямки приклада"
             },
             "41" : {
                 "en": "Raff pin",
@@ -181,341 +187,353 @@
     },
     {
         "sort": 5,
-        "name": "Mag parts",
+        "name": {
+            "en": "Mag parts",
+            "ua": "Магазин"
+        },
         "ancor": "magparts",
         "coords": "308,1802,470,1789,537,1639,545,1315,301,1283,282,1588",
         "list": {
             "42" : {
                 "en": "Magazine follower",
-                "ua": ""
+                "ua": "Подавач"
             },
             "43" : {
                 "en": "Magazine box assy",
-                "ua": ""
+                "ua": "Корпус магазину"
             },
             "44" : {
                 "en": "Magazine floor",
-                "ua": ""
+                "ua": "Нижня кришка магазина"
             },
             "45" : {
                 "en": "Magazine spring",
-                "ua": ""
+                "ua": "Пружина подавача"
             }
         }
     },
     {
         "sort": 1,
-        "name": "Bolt parts",
+        "name": {
+            "en": "Bolt parts",
+            "ua": "Деталі затворної группи"
+        },
         "ancor": "boltparts",
         "coords": "562,823,553,747,443,603,351,487,269,370,61,239,3,395,2,537,98,647,196,775,311,869,411,852,528,842",
         "list": {
             "46" : {
                 "en": "Firing pin",
-                "ua": ""
+                "ua": "Ударник"
             },
             "47" : {
                 "en": "Bolt carrier key screw",
-                "ua": ""
+                "ua": "Гвинти прийомника"
             },
             "48" : {
                 "en": "Bolt carrier key",
-                "ua": ""
+                "ua": "Газовий прийомник затворної рами"
             },
             "49" : {
-                "en": "Firing pin retaining pin",
-                "ua": ""
+                "en": "Firing pin, retaining pin",
+                "ua": "Шплінт"
             },
             "50" : {
                 "en": "Cam pin",
-                "ua": ""
+                "ua": "Палець затворної рами"
             },
             "51" : {
                 "en": "Bolt carrier",
-                "ua": ""
+                "ua": "Затворна рама"
             },
             "52" : {
                 "en": "Extractor pin",
-                "ua": ""
+                "ua": "Штифт викидача"
             },
             "53" : {
                 "en": "Ejector roll pin",
-                "ua": ""
+                "ua": "Трубчастий штифт эжектора"
             },
             "54" : {
                 "en": "Ejector spring",
-                "ua": ""
+                "ua": "Пружина єжектора"
             },
             "55" : {
                 "en": "Ejector",
-                "ua": ""
+                "ua": "Єжектор"
             },
             "56" : {
                 "en": "Extractor",
-                "ua": ""
+                "ua": "Викидач"
             },
             "57" : {
                 "en": "Extractor spring insert",
-                "ua": ""
+                "ua": "Вставка пружини викидача"
             },
             "58" : {
                 "en": "Extractor spring",
-                "ua": ""
+                "ua": "Пружина викидача"
             },
             "59" : {
                 "en": "Bolt",
-                "ua": ""
+                "ua": "Затвор"
             },
             "60" : {
                 "en": "Bolt gas rings",
-                "ua": ""
+                "ua": "Газові кільця затвора "
             }
         }
     },
     {
         "sort": 2,
-        "name": "Upper parts",
+        "name": {
+            "en": "Upper parts",
+            "ua": "Верхній ресивер"
+        },
         "ancor": "upperparts",
         "coords": "1091,1117,1272,1057,1317,886,1282,607,1232,553,1066,539,718,601,593,846,613,928,946,1076",
         "list": {
             "61" : {
                 "en": "Charging handle",
-                "ua": ""
+                "ua": "Рукоятка заряджання"
             },
             "62" : {
                 "en": "Charging handle latch roll pin",
-                "ua": ""
+                "ua": "Трубчастий штифт засувки рукоятки заряджання"
             },
             "63" : {
                 "en": "Charging handle latch",
-                "ua": ""
+                "ua": "Засувка рукоятки заряджання"
             },
             "64" : {
                 "en": "Charging handle latch spring",
-                "ua": ""
+                "ua": "Пружина засувки рукоятки заряджання"
             },
             "65" : {
                 "en": "Forward assist plunger",
-                "ua": ""
+                "ua": "Кнопка ручного досилача затвору"
             },
             "66" : {
                 "en": "Pawl spring",
-                "ua": ""
+                "ua": "Пружина зуба досилача"
             },
             "67" : {
                 "en": "Pawl deten pawl spring",
-                "ua": ""
+                "ua": "Стопор досилача"
             },
             "68" : {
                 "en": "Pawl spring pin",
-                "ua": ""
+                "ua": "Шрифт пружини зуба"
             },
             "69" : {
                 "en": "Forward assist pawl",
-                "ua": ""
+                "ua": "Зуб досилача"
             },
             "70" : {
                 "en": "Forward assist spring",
-                "ua": ""
+                "ua": "Пружина ручного досилача"
             },
             "72" : {
                 "en": "Elevation spring",
-                "ua": ""
+                "ua": "Пружина вертикальної поправки"
             },
             "73" : {
                 "en": "Knob elevation",
-                "ua": ""
+                "ua": "маховичок вертикальної поправки"
             },
             "74" : {
                 "en": "Index elevation",
-                "ua": ""
+                "ua": "Показчик вертикальної поправки"
             },
             "75" : {
                 "en": "Index screw",
-                "ua": ""
+                "ua": "Гвинт показчика"
             },
             "76" : {
                 "en": "Ball bearing",
-                "ua": ""
+                "ua": "Кульковий підшипник"
             },
             "77" : {
                 "en": "Index spring",
-                "ua": ""
+                "ua": "Пружина показчика"
             },
             "78" : {
                 "en": "Rear sight elevation spring pin",
-                "ua": ""
+                "ua": "Штифт пружини вертикальної поправки"
             },
             "79" : {
                 "en": "Forward assist spring pin",
-                "ua": ""
+                "ua": "Штифт пружині ручного досилача"
             },
             "80" : {
                 "en": "Rear sight windage knob",
-                "ua": ""
+                "ua": "Маховичок горизонтальних поправок прицілу"
             },
             "81" : {
                 "en": "Rear sight windage knob pin",
-                "ua": ""
+                "ua": "Вісь маховчика горизонтальних поправок"
             },
             "82" : {
                 "en": "Rear sight base",
-                "ua": ""
+                "ua": "Основа цілика"
             },
             "83" : {
                 "en": "Rear sight windage screw",
-                "ua": ""
+                "ua": "Гвинт маховичка горизонтальних поправок"
             },
             "84" : {
                 "en": "Rear sight helical spring",
-                "ua": ""
+                "ua": "Пружина цілика"
             },
             "85" : {
                 "en": "Rear sight ball bearing",
-                "ua": ""
+                "ua": "Кульковий підшипник цілика"
             },
             "86" : {
                 "en": "Rear sight aperture",
-                "ua": ""
+                "ua": "Діафрагма цілика"
             },
             "87" : {
                 "en": "Rear sight flat spring",
-                "ua": ""
+                "ua": "Пласка пружина цілика"
             },
             "88" : {
                 "en": "Rear sight ball bearing",
-                "ua": ""
+                "ua": "Кульковий підшипник цілика"
             },
             "89" : {
                 "en": "Rear sight helical spring",
-                "ua": ""
+                "ua": "Пружина цілика"
             },
             "90" : {
                 "en": "Thumb nut assembly",
-                "ua": ""
+                "ua": "Гайка затискної планки"
             },
             "91" : {
                 "en": "Clamping bar",
-                "ua": ""
+                "ua": "Затискна планка"
             },
             "92" : {
                 "en": "Cross bold",
-                "ua": ""
+                "ua": "Наскрізний гвинт"
             },
             "93" : {
                 "en": "Carry handle Forged",
-                "ua": ""
+                "ua": "Транспортувальна ручка"
             },
             "94" : {
                 "en": "Upper receiver",
-                "ua": ""
+                "ua": "Верхній ресивер"
             },
             "95" : {
                 "en": "Ring retaining cover",
-                "ua": ""
+                "ua": "Стопорне кыльце вісі кришки вікна"
             },
             "96" : {
                 "en": "Ejection port cover",
-                "ua": ""
+                "ua": "Захисна кришка вiкна викидання гільзи"
             },
             "97" : {
                 "en": "Cover pin ejection port cover spring",
-                "ua": ""
+                "ua": "Штивт захисної кришка вiкна викидання гільзи"
             },
             "98" : {
                 "en": "Ejection port",
-                "ua": ""
+                "ua": "Вiкно викидання гільзи"
             }
         }
     },
     {
         "sort": 0,
-        "name": "Barrel Parts",
+        "name": {
+            "en": "Barrel Parts",
+            "ua": "Ствол"
+        },
         "ancor": "barrelparts",
         "coords": "844,538,1006,485,1225,537,1253,505,1246,414,978,245,848,90,495,22,288,77,181,185,282,288,424,424,693,510",
         "list": {
             "99" : {
                 "en": "Handguard",
-                "ua": ""
+                "ua": "Цівка"
             },
             "100" : {
                 "en": "Barrel nat",
-                "ua": ""
+                "ua": "Гайка фіксації ствола"
             },
             "101" : {
                 "en": "Barrel extersion",
-                "ua": ""
+                "ua": "Кільце обмеження посадки ствола"
             },
             "102" : {
                 "en": "Barrel indexing pin",
-                "ua": ""
+                "ua": "Штифт положення ствола"
             },
             "103" : {
                 "en": "Della ring",
-                "ua": ""
+                "ua": "Кільцева муфта"
             },
             "104" : {
                 "en": "weld spring",
-                "ua": ""
+                "ua": "Зьеднувальная пружина"
             },
             "105" : {
                 "en": "Hand guard snap ring",
-                "ua": ""
+                "ua": "Стопорне кільце цівки"
             },
             "106" : {
                 "en": "Carabine gaz tube",
-                "ua": ""
+                "ua": "Газова трубка"
             },
             "107" : {
                 "en": "Thermoset handguard cap",
-                "ua": ""
+                "ua": "Термозахисна накладка"
             },
             "108" : {
                 "en": "Handguard cap",
-                "ua": ""
+                "ua": "Кришка цівки"
             },
             "109" : {
                 "en": "Front sight post",
-                "ua": ""
+                "ua": "Мушка"
             },
             "110" : {
                 "en": "Front sight detent",
-                "ua": ""
+                "ua": "Стопор мушки"
             },
             "111" : {
                 "en": "Front sight detent spring",
-                "ua": ""
+                "ua": "Пружина стопора мушки"
             },
             "112" : {
                 "en": "Gas tube roff pin",
-                "ua": ""
+                "ua": "Стопорний штифт газової трубки"
             },
             "113" : {
                 "en": "Front sight base with bayonet lug",
-                "ua": ""
+                "ua": "Основа газового блока та мушки"
             },
             "114" : {
                 "en": "Barrel subassembly",
-                "ua": ""
+                "ua": "Ствол"
             },
             "115" : {
                 "en": "Crush washer",
-                "ua": ""
+                "ua": "Підгонна шайба"
             },
             "116" : {
                 "en": "Flash suppressor",
-                "ua": ""
+                "ua": "Полум'ягасник"
             },
             "117" : {
                 "en": "Front signal taper pins",
-                "ua": ""
+                "ua": "Штивти основи газового блогу"
             },
             "118" : {
                 "en": "Front signal swivel",
-                "ua": ""
+                "ua": "Передня антабка"
             },
             "119" : {
                 "en": "Front signal swivel rivet",
-                "ua": ""
+                "ua": "Шарнір антабки"
             }
         }
     }
