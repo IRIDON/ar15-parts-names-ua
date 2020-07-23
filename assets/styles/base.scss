@@ -40,6 +40,10 @@
 		display: none;
 	}
 
+	&_ancor {
+		display: block;
+	}
+
 	&.__show & {
 		&__list {
 			display: block;
