@@ -20,7 +20,7 @@
             <ul class="panel__list">
                 {{#each list}}
                 <li class="panelList">
-                    <b class="panelList__index">{{@key}}.</b>&nbsp;
+                    <b class="panelList__index">{{../group}}.{{@key}}</b>
                     {{#with this}}
                     <span class="panelList__name">{{ua}}</span>
                     <em class="panelList__sub">({{en}})</em>
